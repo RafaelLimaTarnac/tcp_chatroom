@@ -1,6 +1,6 @@
 # tcp_chatroom
 My first C project.<br>
-This program uses unix headers, so make sure you're building this application in a unix based OS.
+This program uses unix headers, so make sure you're building this application on a unix based OS.
 
 ## Building
 You can build both server and client with: <code>make both</code><br>
